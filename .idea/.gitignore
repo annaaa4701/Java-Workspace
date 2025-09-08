@@ -1,3 +1,20 @@
-# 디폴트 무시된 파일
-/shelf/
-/workspace.xml
+# Compiled class file
+/out/
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
